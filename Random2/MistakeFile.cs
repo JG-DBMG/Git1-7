@@ -1,4 +1,3 @@
-//Amend me! DONE
 using System;
 
 namespace RandomNameGenerator
