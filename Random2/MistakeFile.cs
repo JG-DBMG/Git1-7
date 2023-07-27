@@ -1,5 +1,5 @@
 using System;
-
+//This is the Merge Conflict
 namespace RandomNameGenerator
 {
     class Program
