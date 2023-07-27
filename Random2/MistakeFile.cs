@@ -1,5 +1,5 @@
 using System;
-//This is the Main branch
+//This is the Merge Conflict *RESOLVED*
 namespace RandomNameGenerator
 {
     class Program
